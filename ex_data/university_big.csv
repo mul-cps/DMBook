@@ -1,0 +1,751 @@
+student_name,matriculation_number,major_name,major_number,degree_type,lecture_name,lecture_number,faculty_name,personnel_number,role,department_head,department_name,dep_number
+Student_1,12521000,Applied Geosciences,501,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_1,12521000,Applied Geosciences,501,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_1,12521000,Applied Geosciences,501,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_1,12521000,Applied Geosciences,501,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_1,12521000,Applied Geosciences,501,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_2,12521001,Energy Engineering,502,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_2,12521001,Energy Engineering,502,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_2,12521001,Energy Engineering,502,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_2,12521001,Energy Engineering,502,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_2,12521001,Energy Engineering,502,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_3,12521002,Geoenergy Engineering,503,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_3,12521002,Geoenergy Engineering,503,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_3,12521002,Geoenergy Engineering,503,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_3,12521002,Geoenergy Engineering,503,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_3,12521002,Geoenergy Engineering,503,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_4,12521003,Materials Science and Technology,504,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_4,12521003,Materials Science and Technology,504,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_4,12521003,Materials Science and Technology,504,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_4,12521003,Materials Science and Technology,504,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_4,12521003,Materials Science and Technology,504,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_5,12521004,Mechanical Engineering,505,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_5,12521004,Mechanical Engineering,505,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_5,12521004,Mechanical Engineering,505,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_5,12521004,Mechanical Engineering,505,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_5,12521004,Mechanical Engineering,505,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_6,12521005,Circular Engineering,506,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_6,12521005,Circular Engineering,506,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_6,12521005,Circular Engineering,506,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_6,12521005,Circular Engineering,506,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_6,12521005,Circular Engineering,506,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_7,12521006,Industrial Data Science,507,MSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_7,12521006,Industrial Data Science,507,MSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_7,12521006,Industrial Data Science,507,MSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_7,12521006,Industrial Data Science,507,MSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_7,12521006,Industrial Data Science,507,MSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_8,12521007,Industrial Logistics,508,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_8,12521007,Industrial Logistics,508,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_8,12521007,Industrial Logistics,508,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_8,12521007,Industrial Logistics,508,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_8,12521007,Industrial Logistics,508,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_9,12521008,Metallurgy and Metal Recycling,509,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_9,12521008,Metallurgy and Metal Recycling,509,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_9,12521008,Metallurgy and Metal Recycling,509,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_9,12521008,Metallurgy and Metal Recycling,509,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_9,12521008,Metallurgy and Metal Recycling,509,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_10,12521009,Recycling,510,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_10,12521009,Recycling,510,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_10,12521009,Recycling,510,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_10,12521009,Recycling,510,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_10,12521009,Recycling,510,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_11,12521010,Responsible Consumption and Production,511,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_11,12521010,Responsible Consumption and Production,511,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_11,12521010,Responsible Consumption and Production,511,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_11,12521010,Responsible Consumption and Production,511,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_11,12521010,Responsible Consumption and Production,511,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_12,12521011,Environmental and climate Protection Technology,512,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_12,12521011,Environmental and climate Protection Technology,512,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_12,12521011,Environmental and climate Protection Technology,512,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_12,12521011,Environmental and climate Protection Technology,512,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_12,12521011,Environmental and climate Protection Technology,512,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_13,12521012,Applied Geosciences,501,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_13,12521012,Applied Geosciences,501,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_13,12521012,Applied Geosciences,501,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_13,12521012,Applied Geosciences,501,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_13,12521012,Applied Geosciences,501,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_14,12521013,Energy Engineering,502,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_14,12521013,Energy Engineering,502,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_14,12521013,Energy Engineering,502,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_14,12521013,Energy Engineering,502,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_14,12521013,Energy Engineering,502,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_15,12521014,Geoenergy Engineering,503,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_15,12521014,Geoenergy Engineering,503,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_15,12521014,Geoenergy Engineering,503,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_15,12521014,Geoenergy Engineering,503,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_15,12521014,Geoenergy Engineering,503,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_16,12521015,Materials Science and Technology,504,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_16,12521015,Materials Science and Technology,504,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_16,12521015,Materials Science and Technology,504,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_16,12521015,Materials Science and Technology,504,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_16,12521015,Materials Science and Technology,504,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_17,12521016,Mechanical Engineering,505,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_17,12521016,Mechanical Engineering,505,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_17,12521016,Mechanical Engineering,505,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_17,12521016,Mechanical Engineering,505,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_17,12521016,Mechanical Engineering,505,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_18,12521017,Circular Engineering,506,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_18,12521017,Circular Engineering,506,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_18,12521017,Circular Engineering,506,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_18,12521017,Circular Engineering,506,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_18,12521017,Circular Engineering,506,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_19,12521018,Industrial Data Science,507,MSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_19,12521018,Industrial Data Science,507,MSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_19,12521018,Industrial Data Science,507,MSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_19,12521018,Industrial Data Science,507,MSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_19,12521018,Industrial Data Science,507,MSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_20,12521019,Industrial Logistics,508,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_20,12521019,Industrial Logistics,508,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_20,12521019,Industrial Logistics,508,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_20,12521019,Industrial Logistics,508,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_20,12521019,Industrial Logistics,508,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_21,12521020,Metallurgy and Metal Recycling,509,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_21,12521020,Metallurgy and Metal Recycling,509,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_21,12521020,Metallurgy and Metal Recycling,509,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_21,12521020,Metallurgy and Metal Recycling,509,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_21,12521020,Metallurgy and Metal Recycling,509,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_22,12521021,Recycling,510,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_22,12521021,Recycling,510,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_22,12521021,Recycling,510,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_22,12521021,Recycling,510,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_22,12521021,Recycling,510,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_23,12521022,Responsible Consumption and Production,511,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_23,12521022,Responsible Consumption and Production,511,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_23,12521022,Responsible Consumption and Production,511,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_23,12521022,Responsible Consumption and Production,511,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_23,12521022,Responsible Consumption and Production,511,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_24,12521023,Environmental and climate Protection Technology,512,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_24,12521023,Environmental and climate Protection Technology,512,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_24,12521023,Environmental and climate Protection Technology,512,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_24,12521023,Environmental and climate Protection Technology,512,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_24,12521023,Environmental and climate Protection Technology,512,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_25,12521024,Applied Geosciences,501,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_25,12521024,Applied Geosciences,501,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_25,12521024,Applied Geosciences,501,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_25,12521024,Applied Geosciences,501,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_25,12521024,Applied Geosciences,501,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_26,12521025,Energy Engineering,502,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_26,12521025,Energy Engineering,502,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_26,12521025,Energy Engineering,502,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_26,12521025,Energy Engineering,502,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_26,12521025,Energy Engineering,502,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_27,12521026,Geoenergy Engineering,503,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_27,12521026,Geoenergy Engineering,503,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_27,12521026,Geoenergy Engineering,503,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_27,12521026,Geoenergy Engineering,503,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_27,12521026,Geoenergy Engineering,503,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_28,12521027,Materials Science and Technology,504,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_28,12521027,Materials Science and Technology,504,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_28,12521027,Materials Science and Technology,504,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_28,12521027,Materials Science and Technology,504,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_28,12521027,Materials Science and Technology,504,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_29,12521028,Mechanical Engineering,505,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_29,12521028,Mechanical Engineering,505,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_29,12521028,Mechanical Engineering,505,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_29,12521028,Mechanical Engineering,505,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_29,12521028,Mechanical Engineering,505,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_30,12521029,Circular Engineering,506,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_30,12521029,Circular Engineering,506,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_30,12521029,Circular Engineering,506,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_30,12521029,Circular Engineering,506,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_30,12521029,Circular Engineering,506,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_31,12521030,Industrial Data Science,507,MSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_31,12521030,Industrial Data Science,507,MSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_31,12521030,Industrial Data Science,507,MSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_31,12521030,Industrial Data Science,507,MSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_31,12521030,Industrial Data Science,507,MSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_32,12521031,Industrial Logistics,508,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_32,12521031,Industrial Logistics,508,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_32,12521031,Industrial Logistics,508,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_32,12521031,Industrial Logistics,508,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_32,12521031,Industrial Logistics,508,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_33,12521032,Metallurgy and Metal Recycling,509,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_33,12521032,Metallurgy and Metal Recycling,509,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_33,12521032,Metallurgy and Metal Recycling,509,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_33,12521032,Metallurgy and Metal Recycling,509,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_33,12521032,Metallurgy and Metal Recycling,509,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_34,12521033,Recycling,510,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_34,12521033,Recycling,510,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_34,12521033,Recycling,510,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_34,12521033,Recycling,510,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_34,12521033,Recycling,510,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_35,12521034,Responsible Consumption and Production,511,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_35,12521034,Responsible Consumption and Production,511,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_35,12521034,Responsible Consumption and Production,511,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_35,12521034,Responsible Consumption and Production,511,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_35,12521034,Responsible Consumption and Production,511,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_36,12521035,Environmental and climate Protection Technology,512,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_36,12521035,Environmental and climate Protection Technology,512,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_36,12521035,Environmental and climate Protection Technology,512,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_36,12521035,Environmental and climate Protection Technology,512,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_36,12521035,Environmental and climate Protection Technology,512,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_37,12521036,Applied Geosciences,501,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_37,12521036,Applied Geosciences,501,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_37,12521036,Applied Geosciences,501,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_37,12521036,Applied Geosciences,501,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_37,12521036,Applied Geosciences,501,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_38,12521037,Energy Engineering,502,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_38,12521037,Energy Engineering,502,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_38,12521037,Energy Engineering,502,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_38,12521037,Energy Engineering,502,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_38,12521037,Energy Engineering,502,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_39,12521038,Geoenergy Engineering,503,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_39,12521038,Geoenergy Engineering,503,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_39,12521038,Geoenergy Engineering,503,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_39,12521038,Geoenergy Engineering,503,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_39,12521038,Geoenergy Engineering,503,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_40,12521039,Materials Science and Technology,504,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_40,12521039,Materials Science and Technology,504,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_40,12521039,Materials Science and Technology,504,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_40,12521039,Materials Science and Technology,504,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_40,12521039,Materials Science and Technology,504,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_41,12521040,Mechanical Engineering,505,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_41,12521040,Mechanical Engineering,505,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_41,12521040,Mechanical Engineering,505,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_41,12521040,Mechanical Engineering,505,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_41,12521040,Mechanical Engineering,505,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_42,12521041,Circular Engineering,506,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_42,12521041,Circular Engineering,506,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_42,12521041,Circular Engineering,506,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_42,12521041,Circular Engineering,506,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_42,12521041,Circular Engineering,506,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_43,12521042,Industrial Data Science,507,MSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_43,12521042,Industrial Data Science,507,MSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_43,12521042,Industrial Data Science,507,MSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_43,12521042,Industrial Data Science,507,MSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_43,12521042,Industrial Data Science,507,MSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_44,12521043,Industrial Logistics,508,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_44,12521043,Industrial Logistics,508,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_44,12521043,Industrial Logistics,508,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_44,12521043,Industrial Logistics,508,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_44,12521043,Industrial Logistics,508,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_45,12521044,Metallurgy and Metal Recycling,509,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_45,12521044,Metallurgy and Metal Recycling,509,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_45,12521044,Metallurgy and Metal Recycling,509,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_45,12521044,Metallurgy and Metal Recycling,509,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_45,12521044,Metallurgy and Metal Recycling,509,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_46,12521045,Recycling,510,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_46,12521045,Recycling,510,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_46,12521045,Recycling,510,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_46,12521045,Recycling,510,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_46,12521045,Recycling,510,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_47,12521046,Responsible Consumption and Production,511,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_47,12521046,Responsible Consumption and Production,511,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_47,12521046,Responsible Consumption and Production,511,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_47,12521046,Responsible Consumption and Production,511,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_47,12521046,Responsible Consumption and Production,511,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_48,12521047,Environmental and climate Protection Technology,512,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_48,12521047,Environmental and climate Protection Technology,512,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_48,12521047,Environmental and climate Protection Technology,512,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_48,12521047,Environmental and climate Protection Technology,512,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_48,12521047,Environmental and climate Protection Technology,512,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_49,12521048,Applied Geosciences,501,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_49,12521048,Applied Geosciences,501,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_49,12521048,Applied Geosciences,501,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_49,12521048,Applied Geosciences,501,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_49,12521048,Applied Geosciences,501,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_50,12521049,Energy Engineering,502,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_50,12521049,Energy Engineering,502,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_50,12521049,Energy Engineering,502,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_50,12521049,Energy Engineering,502,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_50,12521049,Energy Engineering,502,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_51,12521050,Geoenergy Engineering,503,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_51,12521050,Geoenergy Engineering,503,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_51,12521050,Geoenergy Engineering,503,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_51,12521050,Geoenergy Engineering,503,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_51,12521050,Geoenergy Engineering,503,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_52,12521051,Materials Science and Technology,504,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_52,12521051,Materials Science and Technology,504,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_52,12521051,Materials Science and Technology,504,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_52,12521051,Materials Science and Technology,504,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_52,12521051,Materials Science and Technology,504,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_53,12521052,Mechanical Engineering,505,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_53,12521052,Mechanical Engineering,505,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_53,12521052,Mechanical Engineering,505,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_53,12521052,Mechanical Engineering,505,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_53,12521052,Mechanical Engineering,505,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_54,12521053,Circular Engineering,506,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_54,12521053,Circular Engineering,506,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_54,12521053,Circular Engineering,506,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_54,12521053,Circular Engineering,506,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_54,12521053,Circular Engineering,506,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_55,12521054,Industrial Data Science,507,MSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_55,12521054,Industrial Data Science,507,MSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_55,12521054,Industrial Data Science,507,MSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_55,12521054,Industrial Data Science,507,MSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_55,12521054,Industrial Data Science,507,MSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_56,12521055,Industrial Logistics,508,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_56,12521055,Industrial Logistics,508,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_56,12521055,Industrial Logistics,508,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_56,12521055,Industrial Logistics,508,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_56,12521055,Industrial Logistics,508,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_57,12521056,Metallurgy and Metal Recycling,509,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_57,12521056,Metallurgy and Metal Recycling,509,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_57,12521056,Metallurgy and Metal Recycling,509,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_57,12521056,Metallurgy and Metal Recycling,509,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_57,12521056,Metallurgy and Metal Recycling,509,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_58,12521057,Recycling,510,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_58,12521057,Recycling,510,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_58,12521057,Recycling,510,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_58,12521057,Recycling,510,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_58,12521057,Recycling,510,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_59,12521058,Responsible Consumption and Production,511,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_59,12521058,Responsible Consumption and Production,511,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_59,12521058,Responsible Consumption and Production,511,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_59,12521058,Responsible Consumption and Production,511,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_59,12521058,Responsible Consumption and Production,511,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_60,12521059,Environmental and climate Protection Technology,512,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_60,12521059,Environmental and climate Protection Technology,512,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_60,12521059,Environmental and climate Protection Technology,512,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_60,12521059,Environmental and climate Protection Technology,512,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_60,12521059,Environmental and climate Protection Technology,512,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_61,12521060,Applied Geosciences,501,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_61,12521060,Applied Geosciences,501,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_61,12521060,Applied Geosciences,501,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_61,12521060,Applied Geosciences,501,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_61,12521060,Applied Geosciences,501,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_62,12521061,Energy Engineering,502,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_62,12521061,Energy Engineering,502,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_62,12521061,Energy Engineering,502,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_62,12521061,Energy Engineering,502,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_62,12521061,Energy Engineering,502,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_63,12521062,Geoenergy Engineering,503,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_63,12521062,Geoenergy Engineering,503,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_63,12521062,Geoenergy Engineering,503,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_63,12521062,Geoenergy Engineering,503,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_63,12521062,Geoenergy Engineering,503,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_64,12521063,Materials Science and Technology,504,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_64,12521063,Materials Science and Technology,504,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_64,12521063,Materials Science and Technology,504,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_64,12521063,Materials Science and Technology,504,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_64,12521063,Materials Science and Technology,504,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_65,12521064,Mechanical Engineering,505,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_65,12521064,Mechanical Engineering,505,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_65,12521064,Mechanical Engineering,505,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_65,12521064,Mechanical Engineering,505,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_65,12521064,Mechanical Engineering,505,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_66,12521065,Circular Engineering,506,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_66,12521065,Circular Engineering,506,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_66,12521065,Circular Engineering,506,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_66,12521065,Circular Engineering,506,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_66,12521065,Circular Engineering,506,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_67,12521066,Industrial Data Science,507,MSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_67,12521066,Industrial Data Science,507,MSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_67,12521066,Industrial Data Science,507,MSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_67,12521066,Industrial Data Science,507,MSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_67,12521066,Industrial Data Science,507,MSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_68,12521067,Industrial Logistics,508,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_68,12521067,Industrial Logistics,508,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_68,12521067,Industrial Logistics,508,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_68,12521067,Industrial Logistics,508,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_68,12521067,Industrial Logistics,508,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_69,12521068,Metallurgy and Metal Recycling,509,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_69,12521068,Metallurgy and Metal Recycling,509,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_69,12521068,Metallurgy and Metal Recycling,509,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_69,12521068,Metallurgy and Metal Recycling,509,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_69,12521068,Metallurgy and Metal Recycling,509,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_70,12521069,Recycling,510,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_70,12521069,Recycling,510,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_70,12521069,Recycling,510,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_70,12521069,Recycling,510,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_70,12521069,Recycling,510,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_71,12521070,Responsible Consumption and Production,511,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_71,12521070,Responsible Consumption and Production,511,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_71,12521070,Responsible Consumption and Production,511,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_71,12521070,Responsible Consumption and Production,511,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_71,12521070,Responsible Consumption and Production,511,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_72,12521071,Environmental and climate Protection Technology,512,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_72,12521071,Environmental and climate Protection Technology,512,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_72,12521071,Environmental and climate Protection Technology,512,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_72,12521071,Environmental and climate Protection Technology,512,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_72,12521071,Environmental and climate Protection Technology,512,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_73,12521072,Applied Geosciences,501,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_73,12521072,Applied Geosciences,501,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_73,12521072,Applied Geosciences,501,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_73,12521072,Applied Geosciences,501,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_73,12521072,Applied Geosciences,501,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_74,12521073,Energy Engineering,502,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_74,12521073,Energy Engineering,502,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_74,12521073,Energy Engineering,502,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_74,12521073,Energy Engineering,502,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_74,12521073,Energy Engineering,502,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_75,12521074,Geoenergy Engineering,503,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_75,12521074,Geoenergy Engineering,503,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_75,12521074,Geoenergy Engineering,503,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_75,12521074,Geoenergy Engineering,503,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_75,12521074,Geoenergy Engineering,503,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_76,12521075,Materials Science and Technology,504,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_76,12521075,Materials Science and Technology,504,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_76,12521075,Materials Science and Technology,504,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_76,12521075,Materials Science and Technology,504,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_76,12521075,Materials Science and Technology,504,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_77,12521076,Mechanical Engineering,505,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_77,12521076,Mechanical Engineering,505,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_77,12521076,Mechanical Engineering,505,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_77,12521076,Mechanical Engineering,505,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_77,12521076,Mechanical Engineering,505,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_78,12521077,Circular Engineering,506,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_78,12521077,Circular Engineering,506,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_78,12521077,Circular Engineering,506,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_78,12521077,Circular Engineering,506,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_78,12521077,Circular Engineering,506,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_79,12521078,Industrial Data Science,507,MSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_79,12521078,Industrial Data Science,507,MSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_79,12521078,Industrial Data Science,507,MSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_79,12521078,Industrial Data Science,507,MSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_79,12521078,Industrial Data Science,507,MSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_80,12521079,Industrial Logistics,508,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_80,12521079,Industrial Logistics,508,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_80,12521079,Industrial Logistics,508,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_80,12521079,Industrial Logistics,508,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_80,12521079,Industrial Logistics,508,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_81,12521080,Metallurgy and Metal Recycling,509,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_81,12521080,Metallurgy and Metal Recycling,509,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_81,12521080,Metallurgy and Metal Recycling,509,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_81,12521080,Metallurgy and Metal Recycling,509,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_81,12521080,Metallurgy and Metal Recycling,509,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_82,12521081,Recycling,510,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_82,12521081,Recycling,510,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_82,12521081,Recycling,510,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_82,12521081,Recycling,510,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_82,12521081,Recycling,510,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_83,12521082,Responsible Consumption and Production,511,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_83,12521082,Responsible Consumption and Production,511,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_83,12521082,Responsible Consumption and Production,511,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_83,12521082,Responsible Consumption and Production,511,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_83,12521082,Responsible Consumption and Production,511,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_84,12521083,Environmental and climate Protection Technology,512,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_84,12521083,Environmental and climate Protection Technology,512,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_84,12521083,Environmental and climate Protection Technology,512,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_84,12521083,Environmental and climate Protection Technology,512,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_84,12521083,Environmental and climate Protection Technology,512,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_85,12521084,Applied Geosciences,501,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_85,12521084,Applied Geosciences,501,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_85,12521084,Applied Geosciences,501,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_85,12521084,Applied Geosciences,501,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_85,12521084,Applied Geosciences,501,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_86,12521085,Energy Engineering,502,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_86,12521085,Energy Engineering,502,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_86,12521085,Energy Engineering,502,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_86,12521085,Energy Engineering,502,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_86,12521085,Energy Engineering,502,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_87,12521086,Geoenergy Engineering,503,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_87,12521086,Geoenergy Engineering,503,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_87,12521086,Geoenergy Engineering,503,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_87,12521086,Geoenergy Engineering,503,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_87,12521086,Geoenergy Engineering,503,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_88,12521087,Materials Science and Technology,504,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_88,12521087,Materials Science and Technology,504,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_88,12521087,Materials Science and Technology,504,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_88,12521087,Materials Science and Technology,504,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_88,12521087,Materials Science and Technology,504,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_89,12521088,Mechanical Engineering,505,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_89,12521088,Mechanical Engineering,505,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_89,12521088,Mechanical Engineering,505,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_89,12521088,Mechanical Engineering,505,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_89,12521088,Mechanical Engineering,505,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_90,12521089,Circular Engineering,506,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_90,12521089,Circular Engineering,506,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_90,12521089,Circular Engineering,506,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_90,12521089,Circular Engineering,506,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_90,12521089,Circular Engineering,506,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_91,12521090,Industrial Data Science,507,MSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_91,12521090,Industrial Data Science,507,MSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_91,12521090,Industrial Data Science,507,MSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_91,12521090,Industrial Data Science,507,MSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_91,12521090,Industrial Data Science,507,MSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_92,12521091,Industrial Logistics,508,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_92,12521091,Industrial Logistics,508,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_92,12521091,Industrial Logistics,508,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_92,12521091,Industrial Logistics,508,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_92,12521091,Industrial Logistics,508,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_93,12521092,Metallurgy and Metal Recycling,509,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_93,12521092,Metallurgy and Metal Recycling,509,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_93,12521092,Metallurgy and Metal Recycling,509,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_93,12521092,Metallurgy and Metal Recycling,509,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_93,12521092,Metallurgy and Metal Recycling,509,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_94,12521093,Recycling,510,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_94,12521093,Recycling,510,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_94,12521093,Recycling,510,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_94,12521093,Recycling,510,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_94,12521093,Recycling,510,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_95,12521094,Responsible Consumption and Production,511,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_95,12521094,Responsible Consumption and Production,511,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_95,12521094,Responsible Consumption and Production,511,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_95,12521094,Responsible Consumption and Production,511,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_95,12521094,Responsible Consumption and Production,511,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_96,12521095,Environmental and climate Protection Technology,512,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_96,12521095,Environmental and climate Protection Technology,512,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_96,12521095,Environmental and climate Protection Technology,512,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_96,12521095,Environmental and climate Protection Technology,512,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_96,12521095,Environmental and climate Protection Technology,512,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_97,12521096,Applied Geosciences,501,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_97,12521096,Applied Geosciences,501,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_97,12521096,Applied Geosciences,501,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_97,12521096,Applied Geosciences,501,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_97,12521096,Applied Geosciences,501,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_98,12521097,Energy Engineering,502,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_98,12521097,Energy Engineering,502,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_98,12521097,Energy Engineering,502,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_98,12521097,Energy Engineering,502,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_98,12521097,Energy Engineering,502,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_99,12521098,Geoenergy Engineering,503,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_99,12521098,Geoenergy Engineering,503,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_99,12521098,Geoenergy Engineering,503,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_99,12521098,Geoenergy Engineering,503,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_99,12521098,Geoenergy Engineering,503,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_100,12521099,Materials Science and Technology,504,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_100,12521099,Materials Science and Technology,504,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_100,12521099,Materials Science and Technology,504,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_100,12521099,Materials Science and Technology,504,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_100,12521099,Materials Science and Technology,504,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_101,12521100,Mechanical Engineering,505,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_101,12521100,Mechanical Engineering,505,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_101,12521100,Mechanical Engineering,505,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_101,12521100,Mechanical Engineering,505,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_101,12521100,Mechanical Engineering,505,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_102,12521101,Circular Engineering,506,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_102,12521101,Circular Engineering,506,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_102,12521101,Circular Engineering,506,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_102,12521101,Circular Engineering,506,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_102,12521101,Circular Engineering,506,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_103,12521102,Industrial Data Science,507,MSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_103,12521102,Industrial Data Science,507,MSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_103,12521102,Industrial Data Science,507,MSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_103,12521102,Industrial Data Science,507,MSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_103,12521102,Industrial Data Science,507,MSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_104,12521103,Industrial Logistics,508,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_104,12521103,Industrial Logistics,508,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_104,12521103,Industrial Logistics,508,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_104,12521103,Industrial Logistics,508,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_104,12521103,Industrial Logistics,508,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_105,12521104,Metallurgy and Metal Recycling,509,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_105,12521104,Metallurgy and Metal Recycling,509,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_105,12521104,Metallurgy and Metal Recycling,509,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_105,12521104,Metallurgy and Metal Recycling,509,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_105,12521104,Metallurgy and Metal Recycling,509,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_106,12521105,Recycling,510,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_106,12521105,Recycling,510,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_106,12521105,Recycling,510,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_106,12521105,Recycling,510,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_106,12521105,Recycling,510,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_107,12521106,Responsible Consumption and Production,511,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_107,12521106,Responsible Consumption and Production,511,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_107,12521106,Responsible Consumption and Production,511,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_107,12521106,Responsible Consumption and Production,511,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_107,12521106,Responsible Consumption and Production,511,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_108,12521107,Environmental and climate Protection Technology,512,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_108,12521107,Environmental and climate Protection Technology,512,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_108,12521107,Environmental and climate Protection Technology,512,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_108,12521107,Environmental and climate Protection Technology,512,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_108,12521107,Environmental and climate Protection Technology,512,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_109,12521108,Applied Geosciences,501,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_109,12521108,Applied Geosciences,501,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_109,12521108,Applied Geosciences,501,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_109,12521108,Applied Geosciences,501,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_109,12521108,Applied Geosciences,501,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_110,12521109,Energy Engineering,502,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_110,12521109,Energy Engineering,502,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_110,12521109,Energy Engineering,502,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_110,12521109,Energy Engineering,502,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_110,12521109,Energy Engineering,502,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_111,12521110,Geoenergy Engineering,503,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_111,12521110,Geoenergy Engineering,503,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_111,12521110,Geoenergy Engineering,503,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_111,12521110,Geoenergy Engineering,503,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_111,12521110,Geoenergy Engineering,503,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_112,12521111,Materials Science and Technology,504,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_112,12521111,Materials Science and Technology,504,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_112,12521111,Materials Science and Technology,504,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_112,12521111,Materials Science and Technology,504,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_112,12521111,Materials Science and Technology,504,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_113,12521112,Mechanical Engineering,505,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_113,12521112,Mechanical Engineering,505,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_113,12521112,Mechanical Engineering,505,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_113,12521112,Mechanical Engineering,505,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_113,12521112,Mechanical Engineering,505,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_114,12521113,Circular Engineering,506,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_114,12521113,Circular Engineering,506,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_114,12521113,Circular Engineering,506,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_114,12521113,Circular Engineering,506,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_114,12521113,Circular Engineering,506,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_115,12521114,Industrial Data Science,507,MSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_115,12521114,Industrial Data Science,507,MSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_115,12521114,Industrial Data Science,507,MSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_115,12521114,Industrial Data Science,507,MSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_115,12521114,Industrial Data Science,507,MSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_116,12521115,Industrial Logistics,508,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_116,12521115,Industrial Logistics,508,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_116,12521115,Industrial Logistics,508,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_116,12521115,Industrial Logistics,508,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_116,12521115,Industrial Logistics,508,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_117,12521116,Metallurgy and Metal Recycling,509,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_117,12521116,Metallurgy and Metal Recycling,509,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_117,12521116,Metallurgy and Metal Recycling,509,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_117,12521116,Metallurgy and Metal Recycling,509,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_117,12521116,Metallurgy and Metal Recycling,509,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_118,12521117,Recycling,510,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_118,12521117,Recycling,510,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_118,12521117,Recycling,510,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_118,12521117,Recycling,510,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_118,12521117,Recycling,510,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_119,12521118,Responsible Consumption and Production,511,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_119,12521118,Responsible Consumption and Production,511,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_119,12521118,Responsible Consumption and Production,511,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_119,12521118,Responsible Consumption and Production,511,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_119,12521118,Responsible Consumption and Production,511,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_120,12521119,Environmental and climate Protection Technology,512,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_120,12521119,Environmental and climate Protection Technology,512,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_120,12521119,Environmental and climate Protection Technology,512,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_120,12521119,Environmental and climate Protection Technology,512,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_120,12521119,Environmental and climate Protection Technology,512,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_121,12521120,Applied Geosciences,501,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_121,12521120,Applied Geosciences,501,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_121,12521120,Applied Geosciences,501,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_121,12521120,Applied Geosciences,501,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_121,12521120,Applied Geosciences,501,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_122,12521121,Energy Engineering,502,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_122,12521121,Energy Engineering,502,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_122,12521121,Energy Engineering,502,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_122,12521121,Energy Engineering,502,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_122,12521121,Energy Engineering,502,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_123,12521122,Geoenergy Engineering,503,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_123,12521122,Geoenergy Engineering,503,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_123,12521122,Geoenergy Engineering,503,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_123,12521122,Geoenergy Engineering,503,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_123,12521122,Geoenergy Engineering,503,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_124,12521123,Materials Science and Technology,504,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_124,12521123,Materials Science and Technology,504,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_124,12521123,Materials Science and Technology,504,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_124,12521123,Materials Science and Technology,504,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_124,12521123,Materials Science and Technology,504,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_125,12521124,Mechanical Engineering,505,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_125,12521124,Mechanical Engineering,505,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_125,12521124,Mechanical Engineering,505,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_125,12521124,Mechanical Engineering,505,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_125,12521124,Mechanical Engineering,505,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_126,12521125,Circular Engineering,506,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_126,12521125,Circular Engineering,506,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_126,12521125,Circular Engineering,506,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_126,12521125,Circular Engineering,506,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_126,12521125,Circular Engineering,506,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_127,12521126,Industrial Data Science,507,MSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_127,12521126,Industrial Data Science,507,MSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_127,12521126,Industrial Data Science,507,MSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_127,12521126,Industrial Data Science,507,MSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_127,12521126,Industrial Data Science,507,MSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_128,12521127,Industrial Logistics,508,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_128,12521127,Industrial Logistics,508,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_128,12521127,Industrial Logistics,508,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_128,12521127,Industrial Logistics,508,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_128,12521127,Industrial Logistics,508,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_129,12521128,Metallurgy and Metal Recycling,509,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_129,12521128,Metallurgy and Metal Recycling,509,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_129,12521128,Metallurgy and Metal Recycling,509,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_129,12521128,Metallurgy and Metal Recycling,509,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_129,12521128,Metallurgy and Metal Recycling,509,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_130,12521129,Recycling,510,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_130,12521129,Recycling,510,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_130,12521129,Recycling,510,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_130,12521129,Recycling,510,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_130,12521129,Recycling,510,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_131,12521130,Responsible Consumption and Production,511,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_131,12521130,Responsible Consumption and Production,511,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_131,12521130,Responsible Consumption and Production,511,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_131,12521130,Responsible Consumption and Production,511,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_131,12521130,Responsible Consumption and Production,511,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_132,12521131,Environmental and climate Protection Technology,512,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_132,12521131,Environmental and climate Protection Technology,512,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_132,12521131,Environmental and climate Protection Technology,512,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_132,12521131,Environmental and climate Protection Technology,512,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_132,12521131,Environmental and climate Protection Technology,512,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_133,12521132,Applied Geosciences,501,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_133,12521132,Applied Geosciences,501,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_133,12521132,Applied Geosciences,501,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_133,12521132,Applied Geosciences,501,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_133,12521132,Applied Geosciences,501,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_134,12521133,Energy Engineering,502,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_134,12521133,Energy Engineering,502,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_134,12521133,Energy Engineering,502,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_134,12521133,Energy Engineering,502,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_134,12521133,Energy Engineering,502,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_135,12521134,Geoenergy Engineering,503,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_135,12521134,Geoenergy Engineering,503,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_135,12521134,Geoenergy Engineering,503,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_135,12521134,Geoenergy Engineering,503,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_135,12521134,Geoenergy Engineering,503,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_136,12521135,Materials Science and Technology,504,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_136,12521135,Materials Science and Technology,504,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_136,12521135,Materials Science and Technology,504,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_136,12521135,Materials Science and Technology,504,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_136,12521135,Materials Science and Technology,504,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_137,12521136,Mechanical Engineering,505,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_137,12521136,Mechanical Engineering,505,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_137,12521136,Mechanical Engineering,505,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_137,12521136,Mechanical Engineering,505,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_137,12521136,Mechanical Engineering,505,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_138,12521137,Circular Engineering,506,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_138,12521137,Circular Engineering,506,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_138,12521137,Circular Engineering,506,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_138,12521137,Circular Engineering,506,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_138,12521137,Circular Engineering,506,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_139,12521138,Industrial Data Science,507,MSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_139,12521138,Industrial Data Science,507,MSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_139,12521138,Industrial Data Science,507,MSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_139,12521138,Industrial Data Science,507,MSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_139,12521138,Industrial Data Science,507,MSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_140,12521139,Industrial Logistics,508,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_140,12521139,Industrial Logistics,508,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_140,12521139,Industrial Logistics,508,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_140,12521139,Industrial Logistics,508,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_140,12521139,Industrial Logistics,508,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_141,12521140,Metallurgy and Metal Recycling,509,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_141,12521140,Metallurgy and Metal Recycling,509,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_141,12521140,Metallurgy and Metal Recycling,509,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_141,12521140,Metallurgy and Metal Recycling,509,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_141,12521140,Metallurgy and Metal Recycling,509,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_142,12521141,Recycling,510,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_142,12521141,Recycling,510,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_142,12521141,Recycling,510,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_142,12521141,Recycling,510,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_142,12521141,Recycling,510,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_143,12521142,Responsible Consumption and Production,511,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_143,12521142,Responsible Consumption and Production,511,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_143,12521142,Responsible Consumption and Production,511,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_143,12521142,Responsible Consumption and Production,511,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_143,12521142,Responsible Consumption and Production,511,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_144,12521143,Environmental and climate Protection Technology,512,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_144,12521143,Environmental and climate Protection Technology,512,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_144,12521143,Environmental and climate Protection Technology,512,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_144,12521143,Environmental and climate Protection Technology,512,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_144,12521143,Environmental and climate Protection Technology,512,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_145,12521144,Applied Geosciences,501,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_145,12521144,Applied Geosciences,501,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_145,12521144,Applied Geosciences,501,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_145,12521144,Applied Geosciences,501,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_145,12521144,Applied Geosciences,501,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_146,12521145,Energy Engineering,502,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_146,12521145,Energy Engineering,502,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_146,12521145,Energy Engineering,502,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_146,12521145,Energy Engineering,502,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_146,12521145,Energy Engineering,502,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_147,12521146,Geoenergy Engineering,503,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_147,12521146,Geoenergy Engineering,503,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_147,12521146,Geoenergy Engineering,503,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_147,12521146,Geoenergy Engineering,503,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_147,12521146,Geoenergy Engineering,503,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_148,12521147,Materials Science and Technology,504,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_148,12521147,Materials Science and Technology,504,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_148,12521147,Materials Science and Technology,504,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_148,12521147,Materials Science and Technology,504,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_148,12521147,Materials Science and Technology,504,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_149,12521148,Mechanical Engineering,505,BSc,Chemistry 1,401,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_149,12521148,Mechanical Engineering,505,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_149,12521148,Mechanical Engineering,505,BSc,Physics 1,301,Fred Nurk,3001,professor,True,Physics,3
+Student_149,12521148,Mechanical Engineering,505,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_149,12521148,Mechanical Engineering,505,BSc,Physics 2,302,Fred Nurk,3001,professor,True,Physics,3
+Student_150,12521149,Circular Engineering,506,BSc,Chemistry 2,402,Joe Smith,4001,professor,True,Analytical Chemistry,4
+Student_150,12521149,Circular Engineering,506,BSc,Introduction to Machine Learning,102,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
+Student_150,12521149,Circular Engineering,506,BSc,Advanced Machine and Deep Learning,103,Jane Doe,1002,professor,False,Cyber Physical Systems,1
+Student_150,12521149,Circular Engineering,506,BSc,Mathematics 1,201,John Doe,2001,professor,True,Mathematics and Statistics,2
+Student_150,12521149,Circular Engineering,506,BSc,Introduction to Data Modeling,101,Elmar Rueckert,1001,professor,True,Cyber Physical Systems,1
